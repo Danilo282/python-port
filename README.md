@@ -8,3 +8,7 @@
 </h3>
 
 ![python](https://img.shields.io/badge/python-3.9.0-brightgreen)<space><space>
+
+
+## Conversores
+A pasta conversores contém os primeiros passos no python, criando conversores de medidas/pesos/distancias , utilizando de leitura de digitação de texto e fornecendo sua conversão correspondente
