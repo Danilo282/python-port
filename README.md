@@ -12,3 +12,6 @@
 
 ## Conversores
 A pasta conversores contém os primeiros passos no python, criando conversores de medidas/pesos/distancias , utilizando de leitura de digitação de texto e fornecendo sua conversão correspondente
+
+## Leitores 
+A pasta leitores contém programas desenvolvidos para auxiliar diversos propósitos, utilizando raciocínio logico e matemático.
